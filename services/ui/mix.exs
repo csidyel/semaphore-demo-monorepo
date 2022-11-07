@@ -1,4 +1,4 @@
-defmodule Ui.MixProject do
+
   use Mix.Project
 
   def project do
