@@ -1,4 +1,4 @@
-# UI Service
+# UI Services
 
 This service adds a UI layer on top of the Billing and Users services.
 
